@@ -19,3 +19,4 @@ with open('output.jpg', "wb") as fh:
     fh.write(image)
 ```
 
+####### Code manipulated from original: erikKeresztes
